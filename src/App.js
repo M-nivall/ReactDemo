@@ -12,7 +12,7 @@ function App() {
       {name:"Asila", role:"Designer",img:beanImage},
       {name:"Alstone", role:"Manager",img:beanImage},
       {name:"Alex", role:"Teacher",img:beanImage},
-      {name:"Anet", role:"Nurse",img:beanImage},
+      {name:"Ben", role:"Nurse",img:beanImage},
       {name:"Luccy", role:"Doctor",img:beanImage}
     ]
   );
