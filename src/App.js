@@ -11,7 +11,7 @@ function App() {
       {name:"Michael", role:"Developer",img:beanImage},
       {name:"Asila", role:"Designer",img:beanImage},
       {name:"Alstone", role:"Manager",img:beanImage},
-      {name:"Alex", role:"Teacher",img:beanImage},
+      {name:"Matilda", role:"Teacher",img:beanImage},
       {name:"Ben", role:"Nurse",img:beanImage},
       {name:"Luccy", role:"Doctor",img:beanImage}
     ]
